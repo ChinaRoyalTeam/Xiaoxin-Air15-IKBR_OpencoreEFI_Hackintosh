@@ -1,0 +1,2 @@
+# XiaoxinAIr15IKBR_OpencoreEFI_Hackintosh
+Opencore EFI for Lenovo XiaoxinAir15IKBR
